@@ -4,8 +4,7 @@ HPMUDocs 2019 là dự án lưu trữ kiến thức Y học 2019 của MedPocket
 
 ## Đóng góp cho dự án
 
-- Long Nhật Nguyễn
-- Vũ Minh Hoàng
+Long Nhật Nguyễn, Vũ Minh Hoàng.
 
 ## Bản quyền
 
