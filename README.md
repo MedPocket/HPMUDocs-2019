@@ -1,5 +1,7 @@
 # HPMUDocs 2019
 
+[![Download from GitHub](https://img.shields.io/github/repo-size/MedPocket/HPMUDocs-2019?logo=github&label=Download)](https://github.com/MedPocket/HPMUDocs-2019/archive/refs/heads/main.zip)
+
 HPMUDocs 2019 là dự án lưu trữ kiến thức Y học 2019 của MedPocket.
 
 ## Đóng góp cho dự án
